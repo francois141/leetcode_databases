@@ -8,10 +8,14 @@
 
 Here are my solutions to some leetcodes problems with databases. I add solutions as I solve problems in this category.
 
-<div attr
+
+<div align="center">
 www.leetcode.com
+</div>
+
 
 ## Problem with solutions
+<div align="center">
 
 | Name | Challenge | Solution | 
 | ------------------------------------------------------------------ |------------------------------- |------------------------------------------- |
@@ -27,3 +31,4 @@ www.leetcode.com
 | Delete Duplicate Emails | [Challenge](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./196.%20Delete%20Duplicate%20Emails.sql) 
 | Rising Temperature | [Challenge](https://leetcode.com/problems/rising-temperature/) | [Solution](./197.%20Rising%20Temperature.sql) 
 
+</div>
