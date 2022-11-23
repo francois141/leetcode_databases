@@ -31,5 +31,6 @@ www.leetcode.com
 | Delete Duplicate Emails | [Challenge](https://leetcode.com/problems/delete-duplicate-emails/) | [Solution](./196.%20Delete%20Duplicate%20Emails.sql) 
 | Rising Temperature | [Challenge](https://leetcode.com/problems/rising-temperature/) | [Solution](./197.%20Rising%20Temperature.sql) 
 | Game Play Analysis 1 | [Challenge](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](511.%20Game%20Play%20Analysis%20I.sql)
+| FInd Customer Referee | [Challenge](https://leetcode.com/problems/find-customer-referee/) | [Solution](584.%20Find%20Customer%20Referee.sql)
 
 </div>
