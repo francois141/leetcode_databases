@@ -1,0 +1,1 @@
+SELECT requester_id AS id, count(requester_id) AS num FROM (SELECT requester_id AS requester_id FROM requestaccepted UNION ALL SELECT accepter_id AS requester_id FROM requestaccepted) AS tablez GROUP BY requester_id ORDER BY COUNT(requester_id) DESC LIMIT 1
