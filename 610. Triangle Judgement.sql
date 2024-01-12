@@ -1,1 +1,1 @@
-select x,y,z, case WHEN (x + y > z and x + z > y and z + y > x) then 'Yes' else 'No' end as triangle from triangle
+SELECT x,y,z, CASE WHEN (x + y > z AND x + z > y AND z + y > x) THEN 'Yes' ELSE 'No' END AS triangle FROM triangle
